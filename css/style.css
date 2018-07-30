@@ -1,0 +1,21 @@
+textarea {
+    resize: none;
+    overflow: hidden;
+    width: 500px;
+    min-height: 50px;
+    padding: 2px;
+    line-height: 13px;
+    font-size: 13px;
+    
+}
+
+div {
+    overflow: hidden;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    width: 500px;
+    height: 0px;
+    padding: 2px;
+    line-height: 13px;
+    font-size: 13px;
+}
