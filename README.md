@@ -1,7 +1,5 @@
 # jslibs - A collection of useful snippets of code
 
-[![Build Status](https://travis-ci.org/{kungfunick}/{jslibs}.png?branch=master)](https://travis-ci.org/{kungfunick}/{jslibs})
-
 # Project tree
 
 .
