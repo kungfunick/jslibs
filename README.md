@@ -1,8 +1,20 @@
-# jslibs - A collection of useful snippets of code
+# jslibs 
+
+A collection of useful vanilla snippets of javascript
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+Everything is pure, vanilla js, so we dont break or conflict anything. Therefore all you need is the ability to run Javascript
+
+## Authors
+
+* **Nick Holland** - *Initial work* - [KungFuNick](https://github.com/kungfunick)
 
 # Project tree
-
-.
 * [css](./css)                                              - contains styling for the elements in test
     * [style.css](./css/style.css)                          - contains basic styling
 * [src](./src)                                              - contains javscript snippets
