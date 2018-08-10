@@ -2,12 +2,25 @@
 <html>
 <head>
     <title>JS Libs Test Page</title>
+    <!-- CSS -->
     <link rel="stylesheet" href="css/style.css"/>
+
+    <!-- JS- -->
     <script type="text/javascript" src="src/autoresize/autoresize.js"></script>
+    <script type="text/javascript" src="src/emailvalidator/emailvalidator.js"></script>
+    
 </head>
 <body>
-    <h1>Resizable TextArea</h1>
+    <h2>Resizable TextArea</h2>
     <div id="divContainer"></div>
     <textarea placeholder="This is an auto resizing text area"></textarea>
+
+    <h2>Email Validation</h2>
+    <form onSubmit="return validateEmail(this);" action="">
+        E-mail Address:
+        <input type="text" name="emailid" />
+        <input type="submit" value="Submit" />
+        <input type="reset" value="Reset" />
+    </form>
 </body>
 </html>
